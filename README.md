@@ -42,4 +42,3 @@ The Decentralized Gymkhana Election Software offers a secure, user-friendly plat
 
 **Note**: The provided code and software are for illustrative purposes. Ensure thorough testing and security measures before deploying in a live environment.
 
-GitHub Repository: [Decentralized Gymkhana Election Software](https://github.com/Notchayan/gymkhana_elections_dapp/assets/130827975/60d623df-f0c7-4779-88c1-7d25c725b1a5)
